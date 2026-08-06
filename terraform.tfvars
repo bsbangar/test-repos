@@ -9,4 +9,9 @@ rgs = {
     location   = "australiaeast"
     managed_by = "yasir"
   }
+      rg3 = {
+    name       = "rg-agarwal"
+    location   = "australiaeast"
+    managed_by = "agarwal"
+  }
 }
